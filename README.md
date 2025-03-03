@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ngocdminh
+- 👋 Hi, I’m Ngoc
 - 👀 I’m interested in analyzing data to explore the world's phenomenon behind it
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on data analysis projects or research projects
