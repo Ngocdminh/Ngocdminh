@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngoc
 - 👀 I’m interested in analyzing data to explore the world's phenomenon behind it
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on data analysis projects or research projects
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: email me at ngocdm.90@gmail.com or in my LinkedIn: https://www.linkedin.com/in/ngocdm/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a few of paradoxes such as hating cold weather but loving snow, or being an introvert yet love meeting and connecting with people. 
